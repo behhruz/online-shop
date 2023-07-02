@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 1220px;
+   margin: 0 auto;
+}
+.list{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: black; 
+}
+button{
+    background-color: #D23166;
+    border: 0;
+    border-radius: 8px;
+    padding: 8px 15px;
+    width: 150px;
+}
+header{
+    background-image: url("./img/Rectangle\ 58.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img{
+    padding-right: 100px;
+}
+
+.bir{
+    display: flex;
+    align-items:center;
+    
+}
+button{
+    background-color: #3b00fe;
+    border: 0;
+    border-radius: 8px;
+    padding: 10px 15px;
+    width: 150px;
+    color:#fff;
+}
+.bilol{
+    display: flex;
+}
+.h1 p{
+    width: 363px;
+
+}
+
+
+.bir p{
+    margin: 20px 0;
+}
+.uchinchi{
+    display: flex;
+
+}
+.bir-content{
+    display: flex;
+    justify-content: end;
+    gap: 150px;
+    padding-top: 50px;
+}
+.uch{
+    display: flex;
+    justify-content: space-between;
+}
+.uchinchi h2{
+font-size: 51px;
+margin-top: 20px;
+}
+
+.uchinchi p{
+    font-size: 20px;
+    width: 400px;
+    margin: 30px;
+}
+
+.tortinchi{
+    margin-top: 100px;
+}
+
+.yetti{
+    display: flex;
+    justify-content: space-around;
+}
+.yetti p{
+    margin: 10px 0;
+}
+
+footer{
+    background-color:#F7F7F7;
+    padding: 100px 0;
+}
